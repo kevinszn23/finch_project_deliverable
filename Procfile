@@ -1,0 +1,1 @@
+web: gunicorn finch-collector-sei725.wsgi
